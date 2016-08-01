@@ -54,3 +54,8 @@ id,file,description,date,author,platform,type,port
 53,platforms/cgi/webapps/53.c,"CCBILL CGI - 'ccbillx.c' whereami.cgi Remote Exploit",2003-07-10,knight420,cgi,webapps,0
 54,platforms/windows/remote/54.c,"LeapFTP 2.7.x - Remote Buffer Overflow Exploit",2003-07-12,drG4njubas,windows,remote,21
 55,platforms/linux/remote/55.c,"Samba 2.2.8 - (Bruteforce Method) Remote Root Exploit",2003-07-13,Schizoprenic,linux,remote,139
+56,platforms/windows/remote/56.c,"Microsoft Windows Media Services - (nsiislog.dll) Remote Exploit",2003-07-14,anonymous,windows,remote,80
+57,platforms/solaris/remote/57.txt,"Solaris 2.6/7/8 - (TTYPROMPT in.telnet) Remote Authentication Bypass",2002-11-02,"Jonathan S.",solaris,remote,0
+58,platforms/linux/remote/58.c,"Citadel/UX BBS 6.07 - Remote Exploit",2003-07-17,"Carl Livitt",linux,remote,504
+59,platforms/hardware/dos/59.c,"Cisco IOS - IPv4 Packets Denial of Service Exploit",2003-07-18,l0cK,hardware,dos,0
+60,platforms/hardware/dos/60.c,"Cisco IOS - 'cisco-bug-44020.c' IPv4 Packet Denial of Service Exploit",2003-07-21,"Martin Kluge",hardware,dos,0
