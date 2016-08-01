@@ -48,3 +48,9 @@ id,file,description,date,author,platform,type,port
 47,platforms/php/webapps/47.c,"phpBB 2.0.4 - PHP Remote File Inclusion Exploit",2003-06-30,Spoofed,php,webapps,0
 48,platforms/windows/remote/48.c,"Microsoft Windows Media Services - Remote Exploit (MS03-022)",2003-07-01,firew0rker,windows,remote,80
 49,platforms/linux/remote/49.c,"Linux eXtremail 1.5.x - Remote Format Strings Exploit",2003-07-02,B-r00t,linux,remote,25
+50,platforms/windows/remote/50.pl,"ColdFusion MX - Remote Development Service Exploit",2003-07-07,"angry packet",windows,remote,80
+51,platforms/windows/remote/51.c,"Microsoft Windows WebDAV IIS 5.0 - Remote Root Exploit (3) (xwdav)",2003-07-08,Schizoprenic,windows,remote,80
+52,platforms/windows/local/52.asm,"ICQ Pro 2003a - Password Bypass Exploit (ca1-icq.asm)",2003-07-09,"Caua Moura Prado",windows,local,0
+53,platforms/cgi/webapps/53.c,"CCBILL CGI - 'ccbillx.c' whereami.cgi Remote Exploit",2003-07-10,knight420,cgi,webapps,0
+54,platforms/windows/remote/54.c,"LeapFTP 2.7.x - Remote Buffer Overflow Exploit",2003-07-12,drG4njubas,windows,remote,21
+55,platforms/linux/remote/55.c,"Samba 2.2.8 - (Bruteforce Method) Remote Root Exploit",2003-07-13,Schizoprenic,linux,remote,139
