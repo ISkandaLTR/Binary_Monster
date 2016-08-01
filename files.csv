@@ -1,0 +1,41 @@
+id,file,description,date,author,platform,type,port
+1,platforms/windows/remote/1.c,"Microsoft Windows IIS WebDAV - 'ntdll.dll' Remote Exploit",2003-03-23,kralor,windows,remote,80
+2,platforms/windows/remote/2.c,"Microsoft Windows IIS 5.0 WebDAV - Remote PoC Exploit",2003-03-24,RoMaNSoFt,windows,remote,80
+3,platforms/linux/local/3.c,"Linux Kernel 2.2.x / 2.4.x (Redhat) - ptrace/kmod Local Root Exploit",2003-03-30,"Wojciech Purczynski",linux,local,0
+4,platforms/solaris/local/4.c,"Sun SUNWlldap Library Hostname - Buffer Overflow Exploit",2003-04-01,Andi,solaris,local,0
+5,platforms/windows/remote/5.c,"Microsoft Windows RPC Locator Service - Remote Exploit",2003-04-03,"Marcin Wolak",windows,remote,139
+6,platforms/php/webapps/6.php,"WordPress 2.0.2 - (cache) Remote Shell Injection Exploit",2006-05-25,rgod,php,webapps,0
+7,platforms/linux/remote/7.pl,"Samba 2.2.x - Remote Root Buffer Overflow Exploit",2003-04-07,"H D Moore",linux,remote,139
+8,platforms/linux/remote/8.c,"SETI@home Clients - Buffer Overflow Exploit",2003-04-08,zillion,linux,remote,0
+9,platforms/windows/dos/9.c,"Apache HTTP Server 2.x - Memory Leak Exploit",2003-04-09,"Matthew Murphy",windows,dos,0
+10,platforms/linux/remote/10.c,"Samba 2.2.8 - Remote Root Exploit",2003-04-10,eSDee,linux,remote,139
+37060,platforms/windows/dos/37060.html,"Microsoft Internet Explorer 11 - Crash PoC (1)",2015-05-19,Garage4Hackers,windows,dos,0
+11,platforms/linux/dos/11.c,"Apache 2.0.44 (Linux) - Remote Denial of Service Exploit",2003-04-11,"Daniel Nystram",linux,dos,0
+12,platforms/linux/local/12.c,"Linux Kernel < 2.4.20 - Module Loader Local Root Exploit",2003-04-14,KuRaK,linux,local,0
+13,platforms/windows/dos/13.c,"Chindi Server 1.0 - Denial of Service Exploit",2003-04-18,"Luca Ercoli",windows,dos,0
+15,platforms/osx/local/15.c,"Mac OS X 10.2.4 - DirectoryService (PATH) Local Root Exploit",2003-04-18,"Neeko Oni",osx,local,0
+16,platforms/linux/remote/16.c,"PoPToP PPTP 1.1.4-b3 - Remote Root Exploit",2003-04-18,einstein,linux,remote,1723
+17,platforms/windows/dos/17.pl,"Xeneo Web Server 2.2.9.0 - Denial of Service Exploit",2003-04-22,"Tom Ferris",windows,dos,0
+18,platforms/linux/remote/18.sh,"Snort 1.9.1 - Remote Root Exploit (p7snort191.sh)",2003-04-23,truff,linux,remote,0
+19,platforms/linux/remote/19.c,"PoPToP PPTP 1.1.4-b3 - 'poptop-sane.c' Remote Root Exploit",2003-04-25,blightninjas,linux,remote,1723
+20,platforms/windows/remote/20.txt,"Microsoft Windows SMB - Authentication Remote Exploit",2003-04-25,"Haamed Gheibi",windows,remote,139
+21,platforms/linux/local/21.c,"Qpopper 4.0.x - poppassd Local Root Exploit",2003-04-29,Xpl017Elz,linux,local,0
+22,platforms/windows/dos/22.c,"Pi3Web 2.0.1 - Denial of Service Proof of Concept",2003-04-29,aT4r,windows,dos,0
+23,platforms/windows/remote/23.c,"Real Server < 8.0.2 - Remote Exploit (Windows Platforms)",2003-04-30,"Johnny Cyberpunk",windows,remote,554
+24,platforms/linux/remote/24.c,"Sendmail 8.12.8 - prescan() BSD Remote Root Exploit",2003-04-30,bysin,linux,remote,25
+25,platforms/linux/remote/25.c,"OpenSSH/PAM 3.6.1p1 - Remote Users Discovery Tool",2003-04-30,"Maurizio Agazzini",linux,remote,0
+26,platforms/linux/remote/26.sh,"OpenSSH/PAM 3.6.1p1 - Remote Users Ident (gossh.sh)",2003-05-02,"Nicolas Couture",linux,remote,0
+27,platforms/linux/remote/27.pl,"CommuniGate Pro Webmail 4.0.6 - Session Hijacking Exploit",2003-05-05,"Yaroslav Polyakov",linux,remote,80
+28,platforms/windows/remote/28.c,"Kerio Personal Firewall 2.1.4 - Remote Code Execution Exploit",2003-05-08,Burebista,windows,remote,0
+29,platforms/bsd/local/29.c,"Firebird 1.0.2 FreeBSD 4.7-RELEASE - Local Root Exploit",2003-05-12,bob,bsd,local,0
+30,platforms/windows/remote/30.pl,"Snitz Forums 3.3.03 - Remote Command Execution Exploit",2003-05-12,anonymous,windows,remote,0
+31,platforms/linux/local/31.pl,"CdRecord 2.0 - Mandrake Local Root Exploit",2003-05-14,anonymous,linux,local,0
+32,platforms/windows/local/32.c,"Microsoft Windows XP (explorer.exe) - Buffer Overflow Exploit",2003-05-21,einstein,windows,local,0
+33,platforms/linux/remote/33.c,"WsMp3d 0.x - Remote Root Heap Overflow Exploit",2003-05-22,Xpl017Elz,linux,remote,8000
+34,platforms/linux/remote/34.pl,"Webfroot Shoutbox < 2.32 - (Apache) Remote Exploit",2003-05-29,anonymous,linux,remote,80
+35,platforms/windows/dos/35.c,"Microsoft Windows IIS 5.0 < 5.1 - Remote Denial of Service Exploit",2003-05-31,Shachank,windows,dos,0
+36,platforms/windows/remote/36.c,"Microsoft Windows WebDAV - Remote Root Exploit (2)",2003-06-01,alumni,windows,remote,80
+37,platforms/windows/remote/37.pl,"Microsoft Internet Explorer - Object Tag Exploit (MS03-020)",2003-06-07,alumni,windows,remote,0
+38,platforms/linux/remote/38.pl,"Apache 2.0.45 - APR Remote Exploit",2003-06-08,"Matthew Murphy",linux,remote,80
+39,platforms/linux/remote/39.c,"Atftpd 0.6 - 'atftpdx.c' Remote Root Exploit",2003-06-10,gunzip,linux,remote,69
+40,platforms/linux/local/40.pl,"/usr/mail (Mandrake Linux 8.2) - Local Exploit",2003-06-10,anonymous,linux,local,0
