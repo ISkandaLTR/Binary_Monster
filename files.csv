@@ -39,3 +39,12 @@ id,file,description,date,author,platform,type,port
 38,platforms/linux/remote/38.pl,"Apache 2.0.45 - APR Remote Exploit",2003-06-08,"Matthew Murphy",linux,remote,80
 39,platforms/linux/remote/39.c,"Atftpd 0.6 - 'atftpdx.c' Remote Root Exploit",2003-06-10,gunzip,linux,remote,69
 40,platforms/linux/local/40.pl,"/usr/mail (Mandrake Linux 8.2) - Local Exploit",2003-06-10,anonymous,linux,local,0
+41,platforms/linux/remote/41.pl,"mnoGoSearch 3.1.20 - Remote Command Execution Exploit",2003-06-10,pokleyzz,linux,remote,80
+42,platforms/windows/remote/42.c,"Winmail Mail Server 2.3 - Remote Format String Exploit",2003-06-11,ThreaT,windows,remote,25
+43,platforms/linux/remote/43.pl,"ProFTPD 1.2.9RC1 - (mod_sql) SQL Injection Exploit",2003-06-19,Spaine,linux,remote,21
+44,platforms/php/webapps/44.pl,"phpBB 2.0.5 - SQL Injection password disclosure Exploit",2003-06-20,"Rick Patel",php,webapps,0
+45,platforms/windows/remote/45.c,"Yahoo Messenger 5.5 - 'DSR-ducky.c' Remote Exploit",2003-06-23,Rave,windows,remote,80
+46,platforms/linux/remote/46.c,"Kerio MailServer 5.6.3 - Remote Buffer Overflow Exploit",2003-06-27,B-r00t,linux,remote,25
+47,platforms/php/webapps/47.c,"phpBB 2.0.4 - PHP Remote File Inclusion Exploit",2003-06-30,Spoofed,php,webapps,0
+48,platforms/windows/remote/48.c,"Microsoft Windows Media Services - Remote Exploit (MS03-022)",2003-07-01,firew0rker,windows,remote,80
+49,platforms/linux/remote/49.c,"Linux eXtremail 1.5.x - Remote Format Strings Exploit",2003-07-02,B-r00t,linux,remote,25
