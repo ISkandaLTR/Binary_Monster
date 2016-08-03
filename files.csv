@@ -64,3 +64,5 @@ id,file,description,date,author,platform,type,port
 63,platforms/linux/remote/63.c,"miniSQL (mSQL) 1.3 - Remote GID Root Exploit",2003-07-25,"the itch",linux,remote,1114
 64,platforms/windows/remote/64.c,"Microsoft Windows - (RPC DCOM) Remote Buffer Overflow Exploit",2003-07-25,Flashsky,windows,remote,135
 65,platforms/windows/dos/65.c,"Microsoft Windows SQL Server - Denial of Service Remote Exploit (MS03-031)",2003-07-25,refdom,windows,dos,0
+66,platforms/windows/remote/66.c,"Microsoft Windows 2000/XP - (RPC DCOM) Remote Exploit (MS03-026)",2003-07-26,"H D Moore",windows,remote,135
+67,platforms/multiple/remote/67.c,"Apache 1.3.x mod_mylo - Remote Code Execution Exploit",2003-07-28,"Carl Livitt",multiple,remote,80
