@@ -59,3 +59,8 @@ id,file,description,date,author,platform,type,port
 58,platforms/linux/remote/58.c,"Citadel/UX BBS 6.07 - Remote Exploit",2003-07-17,"Carl Livitt",linux,remote,504
 59,platforms/hardware/dos/59.c,"Cisco IOS - IPv4 Packets Denial of Service Exploit",2003-07-18,l0cK,hardware,dos,0
 60,platforms/hardware/dos/60.c,"Cisco IOS - 'cisco-bug-44020.c' IPv4 Packet Denial of Service Exploit",2003-07-21,"Martin Kluge",hardware,dos,0
+61,platforms/windows/dos/61.c,"Microsoft Windows 2000 - RPC DCOM Interface DoS Exploit",2003-07-21,Flashsky,windows,dos,0
+62,platforms/hardware/dos/62.sh,"Cisco IOS - (using hping) Remote Denial of Service Exploit",2003-07-22,zerash,hardware,dos,0
+63,platforms/linux/remote/63.c,"miniSQL (mSQL) 1.3 - Remote GID Root Exploit",2003-07-25,"the itch",linux,remote,1114
+64,platforms/windows/remote/64.c,"Microsoft Windows - (RPC DCOM) Remote Buffer Overflow Exploit",2003-07-25,Flashsky,windows,remote,135
+65,platforms/windows/dos/65.c,"Microsoft Windows SQL Server - Denial of Service Remote Exploit (MS03-031)",2003-07-25,refdom,windows,dos,0
