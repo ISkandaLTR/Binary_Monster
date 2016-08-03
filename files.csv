@@ -69,3 +69,5 @@ id,file,description,date,author,platform,type,port
 68,platforms/linux/dos/68.c,"Linux Kernel 2.4.20 - decode_fh Denial of Service Exploit",2003-07-29,"Jared Stanbrough",linux,dos,0
 69,platforms/windows/remote/69.c,"Microsoft Windows RPC - DCOM Remote Exploit (18 Targets)",2003-07-29,pHrail,windows,remote,135
 70,platforms/windows/remote/70.c,"Microsoft Windows - (RPC DCOM) Remote Exploit (48 Targets)",2003-07-30,anonymous,windows,remote,135
+71,platforms/linux/local/71.c,"XGalaga 2.0.34 - Local game Exploit (Red Hat 9.0)",2003-07-31,c0wboy,linux,local,0
+72,platforms/linux/local/72.c,"xtokkaetama 1.0b - Local Game Exploit (Red Hat 9.0)",2003-08-01,brahma,linux,local,0
