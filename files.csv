@@ -79,3 +79,8 @@ id,file,description,date,author,platform,type,port
 78,platforms/linux/remote/78.c,"wu-ftpd 2.6.2 - Remote Root Exploit",2003-08-11,Xpl017Elz,linux,remote,21
 79,platforms/windows/local/79.c,"DameWare Mini Remote Control Server - SYSTEM Exploit",2003-08-13,ash,windows,local,0
 80,platforms/windows/remote/80.c,"Oracle XDB FTP Service - UNLOCK Buffer Overflow Exploit",2003-08-13,"David Litchfield",windows,remote,2100
+38772,platforms/hardware/webapps/38772.txt,"ZTE ADSL ZXV10 W300 Modems - Multiple Vulnerabilities",2015-11-20,"Karn Ganeshen",hardware,webapps,80
+81,platforms/windows/remote/81.c,"Microsoft Windows 2000 - RSVP Server Authority Hijacking PoC Exploit",2003-08-15,"ste jones",windows,remote,0
+82,platforms/windows/dos/82.c,"Piolet Client 1.05 - Remote Denial of Service Exploit",2003-08-20,"Luca Ercoli",windows,dos,0
+83,platforms/windows/remote/83.html,"Microsoft Internet Explorer - Object Data Remote Exploit (M03-032)",2003-08-21,malware,windows,remote,0
+84,platforms/linux/remote/84.c,"Gopherd 3.0.5 - FTP Gateway Remote Overflow Exploit",2003-08-22,vade79,linux,remote,70
