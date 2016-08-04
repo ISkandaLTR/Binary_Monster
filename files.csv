@@ -74,3 +74,8 @@ id,file,description,date,author,platform,type,port
 73,platforms/windows/dos/73.c,"Trillian 0.74 - Remote Denial of Service Exploit",2003-08-01,l0bstah,windows,dos,0
 74,platforms/linux/remote/74.c,"wu-ftpd 2.6.2 - off-by-one Remote Root Exploit",2003-08-03,Xpl017Elz,linux,remote,21
 75,platforms/linux/local/75.c,"man-db 2.4.1 - open_cat_stream() Local uid=man Exploit",2003-08-06,vade79,linux,local,0
+76,platforms/windows/remote/76.c,"Microsoft Windows - (RPC DCOM) Remote Exploit (Universal Targets)",2003-08-07,oc192,windows,remote,135
+77,platforms/hardware/remote/77.c,"Cisco IOS 12.x/11.x - HTTP Remote Integer Overflow Exploit",2003-08-10,FX,hardware,remote,80
+78,platforms/linux/remote/78.c,"wu-ftpd 2.6.2 - Remote Root Exploit",2003-08-11,Xpl017Elz,linux,remote,21
+79,platforms/windows/local/79.c,"DameWare Mini Remote Control Server - SYSTEM Exploit",2003-08-13,ash,windows,local,0
+80,platforms/windows/remote/80.c,"Oracle XDB FTP Service - UNLOCK Buffer Overflow Exploit",2003-08-13,"David Litchfield",windows,remote,2100
